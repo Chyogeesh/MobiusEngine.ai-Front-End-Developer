@@ -22,4 +22,31 @@ To exactly match the Figma design, you would need to:
 3. Replace placeholder content with actual copy
 4. Add any specific animations or interactions shown in the design
 
-Would you like me to modify any specific part of this implementation to better match what you're looking for?
+
+# MobiusEngine.ai Landing Page
+
+This is a recreation of the MobiusEngine.ai landing page based on the provided Figma design, built with React.
+
+## Features
+
+- Responsive design that works on all devices
+- Clean, modern UI with attention to detail
+- Component-based architecture for maintainability
+- Semantic HTML and accessible markup
+
+## Technologies Used
+
+- React 18
+- CSS (no preprocessors or CSS-in-JS for simplicity)
+- Vercel for deployment
+
+## Setup Instructions
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/mobius-engine-landing.git
+
+cd mobius-engine-landing
+npm install
+
+npm start

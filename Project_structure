@@ -1,0 +1,25 @@
+mobius-engine-landing/
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── assets/ (images, fonts)
+├── src/
+│   ├── components/
+│   │   ├── Header.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Features.jsx
+│   │   ├── CTA.jsx
+│   │   └── Footer.jsx
+│   ├── App.js
+│   ├── index.js
+│   └── styles/
+│       ├── main.css
+│       ├── components/
+│       │   ├── header.css
+│       │   ├── hero.css
+│       │   ├── features.css
+│       │   ├── cta.css
+│       │   └── footer.css
+│       └── utils.css
+├── package.json
+└── README.md
